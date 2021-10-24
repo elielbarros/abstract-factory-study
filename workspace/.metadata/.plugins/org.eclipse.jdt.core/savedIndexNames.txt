@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+G:\estudos\estudos-independentes\abstract-factory\workspace\.metadata\.plugins\org.eclipse.jdt.core
+1303363764.index

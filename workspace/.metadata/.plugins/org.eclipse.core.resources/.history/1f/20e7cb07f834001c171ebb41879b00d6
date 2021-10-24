@@ -1,0 +1,16 @@
+package implementations;
+
+import interfaces.Button;
+import interfaces.GUIFactory;
+
+public class Application {
+	private GUIFactory factory;
+	private Button button;
+	
+	public Application(GUIFactory factory) {
+		// TODO Auto-generated constructor stub
+		this.factory = factory;
+	}
+	
+	
+}

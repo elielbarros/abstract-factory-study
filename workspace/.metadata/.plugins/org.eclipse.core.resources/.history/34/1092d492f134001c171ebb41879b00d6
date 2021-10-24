@@ -1,0 +1,19 @@
+package implementations;
+
+import interfaces.GUIFactory;
+
+public class MacFactory implements GUIFactory {
+
+	@Override
+	public void createButton() {
+		// TODO Auto-generated method stub
+		new MacButton();
+	}
+
+	@Override
+	public void createCheckbox() {
+		// TODO Auto-generated method stub
+		new MacCheckbox();
+	}
+
+}

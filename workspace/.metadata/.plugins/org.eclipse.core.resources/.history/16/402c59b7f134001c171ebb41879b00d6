@@ -1,0 +1,9 @@
+package interfaces;
+
+import implementations.MacButton;
+import implementations.MacCheckbox;
+
+public interface GUIFactory {
+	MacButton createButton();
+	MacCheckbox createCheckbox();
+}
